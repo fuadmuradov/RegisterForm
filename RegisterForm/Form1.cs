@@ -22,21 +22,7 @@ namespace RegisterForm
         private void Form1_Load(object sender, EventArgs e)
         {
            
-            //string conString = ConfigurationManager.ConnectionStrings["rgstrform"].ConnectionString;
-            //SqlConnection sqlConnection = null;
-            //SqlCommand sqlCommand = null;
-            //SqlDataReader sqlDataReader = null;
 
-            //try
-            //{
-            //    sqlConnection = new SqlConnection(conString);
-            //    sqlConnection.Open();
-            //    String command 
-            //}
-            //catch
-            //{
-
-            //}
 
         }
 
